@@ -21,7 +21,7 @@ Open to new opportunities :)
 * Git
 * JS
 ***
-###_Education_
+###_Education & Courses_
 
 __Present__
 ######The Rolling Scopes School
@@ -32,12 +32,12 @@ Specializations: Informatics;
 
 __2000 – 2004__
 Graičiūno Aukštoji Vadybos Mokykla
-Specializations: International Business Management
+Specializations: International Business Management;
 
 ***
 ###_Language skills_
 
-| Language        | Level         |
+|        |       |
 | ------------- |:-------------:| 
 | _Lithuanian_    | native| 
 | _English_      | B1     |   
