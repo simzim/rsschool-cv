@@ -1,7 +1,7 @@
 
-##_Simona Zimkiene_
+## _Simona Zimkiene_
 ***
-###_Contact info_
+### _Contact info_
 
 __email:__ info@simzim.lt
 
@@ -10,7 +10,7 @@ __email:__ info@simzim.lt
 
 
 ***
-###_Summary_
+### _Summary_
 Open to new opportunities :) 
 ***
 ###_Skills_
@@ -21,10 +21,10 @@ Open to new opportunities :)
 * Git
 * JS
 ***
-###_Education & Courses_
+### _Education & Courses_
 
 __Present__
-######The Rolling Scopes School
+The Rolling Scopes School
 
 __2019 – present__
 Klaipeda University
@@ -35,7 +35,7 @@ Graičiūno Aukštoji Vadybos Mokykla
 Specializations: International Business Management;
 
 ***
-###_Language skills_
+### _Language skills_
 
 |        |       |
 | ------------- |:-------------:| 
